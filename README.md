@@ -42,12 +42,10 @@ Here are some ideas to get you started:
 </p>
 
 
-<div align="center" style="margin: 40px 0">
-   [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=vue3-typescript-hati-dubai&theme=radical)](https://github.com/Yalanday/vue3-typescript-hati-dubai)
-   [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=chebureki-fullstack-micro-front-service&theme=merko)](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
-   [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=Kriptersant-game-SPA-vanila-JS&theme=merko)](https://github.com/Yalanday/Kriptersant-game-SPA-vanila-JS)
-   [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=board-express&theme=merko)](https://github.com/Yalanday/board-express)
-</div>
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=vue3-typescript-hati-dubai&theme=radical)](https://github.com/Yalanday/vue3-typescript-hati-dubai)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=chebureki-fullstack-micro-front-service&theme=merko)](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=Kriptersant-game-SPA-vanila-JS&theme=merko)](https://github.com/Yalanday/Kriptersant-game-SPA-vanila-JS)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=board-express&theme=merko)](https://github.com/Yalanday/board-express)
 
 
 <div align="center" style="margin: 40px 0">
