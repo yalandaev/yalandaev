@@ -62,10 +62,26 @@
 ![htmlacademy](https://img.shields.io/badge/Выпускник_HTML_Academy-302683?style=for-the-badge&logo=htmlacademy&logoColor=white)
 
 ### Пет-проекты, которыми я горжусь
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=vue3-typescript-hati-dubai&theme=radical)](https://github.com/Yalanday/vue3-typescript-hati-dubai)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=chebureki-fullstack-micro-front-service&theme=merko)](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=Kriptersant-game-SPA-vanila-JS&theme=merko)](https://github.com/Yalanday/Kriptersant-game-SPA-vanila-JS)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=board-express&theme=merko)](https://github.com/Yalanday/board-express)
+
+#### [Dubai-Hata](https://dubai-hata.netlify.app/)
+- **Технологии**: Vue.js 3, Pinia, TypeScript, Ant Design
+- **Описание**: Веб-приложение для управления недвижимостью.
+- **Репозиторий**: https://github.com/Yalanday/vue3-typescript-hati-dubai
+
+#### [Cryptersant](https://cryptersant.netlify.app/)
+- **Технологии**: Чистый JavaScript (ООП подход)
+- **Описание**: Реплика классической игры "Коммерсант".
+- **Репозиторий**: https://github.com/Yalanday/Kriptersant-game-SPA-vanila-JS
+
+#### [Board-Express](https://board-express.netlify.app/)
+- **Технологии**: React, TypeScript, Ant Design, Redux Toolkit
+- **Описание**: Интерактивные доски со стикерами.
+- **Репозиторий**: https://github.com/Yalanday/board-express
+
+#### [Платформа для управления чебуречной](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
+- **Технологии**: Vue.js 3, Pinia, TypeScript, Ant Design
+- **Описание**: Веб-приложение для управления чебуречной.
+- **Репозиторий**: https://github.com/Yalanday/chebureki-fullstack-micro-front-service
 
 ### Повышение квалификации, курсы
 **HTML Academy**:  
