@@ -1,22 +1,16 @@
-## Hi there 👋
+## Привет, меня зовут Андрей 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=yalanday&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yalanday&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/yalanday/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalanday&layout=compact"/></a>
-</p>
+- 🔭 Я **фронтенд-разработчик** с опытом создания современных и адаптивных веб-приложений.
+- 🌱 Я активно интересуюсь разработкой веб-приложений, изучаю современные подходы и технологии.
+- ⚡ Fun fact: когда-то я ловил жуликов, а теперь крашу кнопки)
 
 <p align='center'>
    <a href="https://t.me/yalandaev">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:fake@gmail.com'>fake@gmail.com</a>
+   <a href="mailto:yalanday256@gmail.com">
+       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
 </p>
 
 ### Languages
@@ -40,6 +34,7 @@
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![BEM](https://img.shields.io/badge/БЭМ-000000?style=for-the-badge&logo=bem&logoColor=white)
 ![microfrontends](https://img.shields.io/badge/Microfrontends-1C3664?style=for-the-badge)
 
 ### Tools
@@ -61,16 +56,24 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![yandexmetrics](https://img.shields.io/badge/Яндекс_Метрика-221E68?style=for-the-badge)
 ![1С-Битрикс](https://img.shields.io/badge/1С_Битрикс-003E95?style=for-the-badge)
+![amoCRM](https://img.shields.io/badge/amoCRM-FFDA18?style=for-the-badge)
 ![ruCaptcha](https://img.shields.io/badge/ruCaptcha-1A182A?style=for-the-badge)
 ![Puppeter](https://img.shields.io/badge/Puppeter-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![htmlacademy](https://img.shields.io/badge/Выпускник_HTML_Academy-302683?style=for-the-badge&logo=htmlacademy&logoColor=white)
 
-
+### Пет-проекты, которыми я горжусь
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=vue3-typescript-hati-dubai&theme=radical)](https://github.com/Yalanday/vue3-typescript-hati-dubai)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=chebureki-fullstack-micro-front-service&theme=merko)](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=Kriptersant-game-SPA-vanila-JS&theme=merko)](https://github.com/Yalanday/Kriptersant-game-SPA-vanila-JS)
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=board-express&theme=merko)](https://github.com/Yalanday/board-express)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=yalanday&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yalanday&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/yalanday/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalanday&layout=compact"/></a>
+</p>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/yalanday/github-profile-views-counter">
