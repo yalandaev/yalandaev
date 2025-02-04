@@ -21,3 +21,9 @@ Here are some ideas to get you started:
    <a href="https://github.com/yalanday/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalanday&layout=compact"/></a>
 </p>
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/yalanday/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=yalanday&color=DE002D">
+   </a>
+</div>
