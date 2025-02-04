@@ -57,6 +57,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Other
+![Tilda](https://img.shields.io/badge/Tilda-FFA282?style=for-the-badge&logo=tildapublishing&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![yandexmetrics](https://img.shields.io/badge/Яндекс_Метрика-221E68?style=for-the-badge)
 ![1С-Битрикс](https://img.shields.io/badge/1С_Битрикс-003E95?style=for-the-badge)
 ![ruCaptcha](https://img.shields.io/badge/ruCaptcha-1A182A?style=for-the-badge)
