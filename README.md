@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 ### Технологии
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
-![React](https://img.shields.io/badge/React-Expert-blue)
-![Vue](https://img.shields.io/badge/Vue-Expert-green)
-![Jest](https://img.shields.io/badge/Jest-Expert-red)
-![TDD](https://img.shields.io/badge/TDD-Expert-green)
+![HTML](https://img.shields.io/badge/HTML-Advanced-orange)
+![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Junior-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Junior-blue)
+![React](https://img.shields.io/badge/React-Junior-blue)
+![Vue](https://img.shields.io/badge/Vue-Junior-green)
+![Jest](https://img.shields.io/badge/Jest-Junior-red)
+![TDD](https://img.shields.io/badge/TDD-Junior-green)
 
 <p align='center'>
    <a href="https://t.me/@yalandaev">
