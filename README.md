@@ -66,7 +66,15 @@
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=chebureki-fullstack-micro-front-service&theme=merko)](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=Kriptersant-game-SPA-vanila-JS&theme=merko)](https://github.com/Yalanday/Kriptersant-game-SPA-vanila-JS)
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=board-express&theme=merko)](https://github.com/Yalanday/board-express)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+### Повышение квалификации, курсы
+**HTML Academy**:  
+1. HTML и CSS. Профессиональная вёрстка сайтов  
+2. HTML и CSS. Адаптивная вёрстка и автоматизация  
+3. JavaScript. Профессиональная разработка веб-интерфейсов  
+4. JavaScript. Архитектура клиентских приложений  
+5. React. TypeScript. Разработка сложных клиентских приложений  
+6. Бэкенд-разработчик - PHP, уровень 1
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=yalanday&show_icons=true&count_private=true">
