@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 ![ant-design](https://img.shields.io/badge/Ant_Design-000000?style=for-the-badge&logo=antdesign&logoColor=FFFFFF)
-![Vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vue&logoColor=FFFFFF)
+![Vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![jest](https://img.shields.io/badge/jest-0769AD?style=for-the-badge&logo=jest&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![vitest](https://img.shields.io/badge/Vite-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -68,9 +71,10 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-007ACC?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-007ACC?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white)
 
 ### Backend-End Development (Just for fun, at least yet)
-![NodeJS](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-%23150458.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
