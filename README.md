@@ -34,12 +34,15 @@ Here are some ideas to get you started:
 ![TDD](https://img.shields.io/badge/TDD-Junior-green)
 
 <p align='center'>
-   <a href="https://t.me/@yalandaev">
+   <a href="https://t.me/yalandaev">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:fake@gmail.com'>fake@gmail.com</a>
 </p>
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=vue3-typescript-hati-dubai&theme=radical)](https://github.com/Yalanday/vue3-typescript-hati-dubai)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yalanday&repo=chebureki-fullstack-micro-front-service&theme=merko)](https://github.com/Yalanday/chebureki-fullstack-micro-front-service)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/yalanday/github-profile-views-counter">
