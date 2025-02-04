@@ -22,17 +22,6 @@ Here are some ideas to get you started:
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalanday&layout=compact"/></a>
 </p>
 
-### Технологии
-
-![HTML](https://img.shields.io/badge/HTML-Advanced-orange)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Junior-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Junior-blue)
-![React](https://img.shields.io/badge/React-Junior-blue)
-![Vue](https://img.shields.io/badge/Vue-Junior-green)
-![Jest](https://img.shields.io/badge/Jest-Junior-red)
-![TDD](https://img.shields.io/badge/TDD-Junior-green)
-
 <p align='center'>
    <a href="https://t.me/yalandaev">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -47,31 +36,30 @@ Here are some ideas to get you started:
 
 ### Front-End Development
 
-
-![ant-design](https://img.shields.io/badge/Ant_Design-000000?style=for-the-badge&logo=antdesign&logoColor=FFFFFF)
-![Vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![ant-design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=FFFFFF)
+![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![graphql](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![rest](https://img.shields.io/badge/REST-E434AA?style=for-the-badge&logo=rest&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![jest](https://img.shields.io/badge/jest-0769AD?style=for-the-badge&logo=jest&logoColor=white)
+![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![vitest](https://img.shields.io/badge/Vite-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![htmlacademy](https://img.shields.io/badge/HTML_Academy-302683?style=for-the-badge&logo=htmlacademy&logoColor=white)
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-007ACC?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-007ACC?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white)
 
 ### Backend-End Development (Just for fun, at least yet)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23150458.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
